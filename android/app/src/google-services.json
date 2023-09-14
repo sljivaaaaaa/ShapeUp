@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686027089814",
+    "project_id": "glossy-protocol-396914",
+    "storage_bucket": "glossy-protocol-396914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686027089814:android:1e90842d9e4eae7fb1dfb7",
+        "android_client_info": {
+          "package_name": "com.example.shape_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686027089814-ufvvjasm77aa7jpj0ghh382bf0so4pq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNDYHSkDd6ssRTcn_EyJMp26ivtUP0PdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686027089814-ufvvjasm77aa7jpj0ghh382bf0so4pq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
